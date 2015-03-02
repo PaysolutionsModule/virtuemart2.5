@@ -4,12 +4,16 @@ Module : virtuemart2.5 for Joomla 2.5
 วิธีการเชื่อมต่อ Paysolutions Gateway กับ Virtuemart 2.0
 
 -	การติดตั้ง
+
 1.	Log in เข้า back office Joomla 2.5 เลือก เมนู  Extension Manager
+	
 2.	ทำการเลือกไฟล์ paysolutions.zip แล้วเลือก Upload & Install
 
 -	การตั้งค่า
 1.	เข้าไปที่ เมนู VirtueMart เลือก Shop  - > Payment Methods
+
 2.	เลือก New ที่เมนูด้านบน
+
 3.	กรอกรายละเอียด payment menthod information ให้ครบ แล้วเลือก payment method เป็น Paysolutions แล้วกด Save 
 
 3.1  Payment Name[ ชื่อ Payment Gateway ]	:	Paysolutions
