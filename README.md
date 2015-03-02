@@ -11,13 +11,22 @@ Module : virtuemart2.5 for Joomla 2.5
 1.	เข้าไปที่ เมนู VirtueMart เลือก Shop  - > Payment Methods
 2.	เลือก New ที่เมนูด้านบน
 3.	กรอกรายละเอียด payment menthod information ให้ครบ แล้วเลือก payment method เป็น Paysolutions แล้วกด Save 
-3.1  Payment Name[ ชื่อ Payment Gateway ]	:	Paysolutions 
+
+3.1  Payment Name[ ชื่อ Payment Gateway ]	:	Paysolutions
+
 3.2  Sef Alias					:	Paysolutions
+
 3.3  Published [ การ เปิดใช้งาน ]			:	Yes
+
 3.4 Payment Description [ รายละเอียด ของ Payment ]	: 	Paysolutions [หรือข้อความรายละเอียดต่างๆ ]
+
 3.5 Shopper Group				:	ไม่ต้องใส่รายละเอียด
+
 3.6 List Order [ ลำดับ ]				: 	0
 
+
 4.	เลือกแถบเมนู Configuration ทำการตั้งค่า Paysolutions แล้วกด Save
+
 4.1 paysolutions MerchantID [ MerchantID ที่ได้มาจาก ePayment ]       :	00000000
-	4.2 DEMO SERVER	:	No
+
+4.2 DEMO SERVER	:	No
