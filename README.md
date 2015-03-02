@@ -10,6 +10,7 @@ Module : virtuemart2.5 for Joomla 2.5
 2.	ทำการเลือกไฟล์ paysolutions.zip แล้วเลือก Upload & Install
 
 -	การตั้งค่า
+
 1.	เข้าไปที่ เมนู VirtueMart เลือก Shop  - > Payment Methods
 
 2.	เลือก New ที่เมนูด้านบน
